@@ -1,0 +1,51 @@
+body{
+   background-color: #907FA4;
+   margin: 0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+}
+#height, #weight{
+
+  width:100px;
+  height:20px;
+  margin-top: 1px;
+
+}
+#weight{
+  margin-bottom: 20px;
+}
+h1,h2{
+  color:#21094E;
+}
+.guide{
+  background:#A58FAA;
+  text-align: center;
+
+
+}
+.btn {
+  background: #0e054d;
+  background-image: -webkit-linear-gradient(top, #0e054d, #7d71c2);
+  background-image: -moz-linear-gradient(top, #0e054d, #7d71c2);
+  background-image: -ms-linear-gradient(top, #0e054d, #7d71c2);
+  background-image: -o-linear-gradient(top, #0e054d, #7d71c2);
+  background-image: linear-gradient(to bottom, #0e054d, #7d71c2);
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #b2a7db;
+  background-image: -webkit-linear-gradient(top, #b2a7db, #291694);
+  background-image: -moz-linear-gradient(top, #b2a7db, #291694);
+  background-image: -ms-linear-gradient(top, #b2a7db, #291694);
+  background-image: -o-linear-gradient(top, #b2a7db, #291694);
+  background-image: linear-gradient(to bottom, #b2a7db, #291694);
+  text-decoration: none;
+}
